@@ -1,7 +1,5 @@
 # Jenkins Pipeline for Apache HTTPD Deployment on EC2
 
-## Complete Guide with Diagrams and Step-by-Step Instructions
-
 ## Prerequisites
 
 1. Two EC2 instances:
